@@ -53,11 +53,9 @@ The dashboard provides a single-page view of key transaction and user metrics.
 
 ## 🖼️ Dashboard Preview
 
-![PhonePe Dashboard](![Uploading image.png…]()
-)
+![PhonePe Dashboard](![Uploading image.png…])
 
-> Replace `![Uploading image.png…]()
-` with the actual screenshot file uploaded to this repository.
+
 
 ---
 
