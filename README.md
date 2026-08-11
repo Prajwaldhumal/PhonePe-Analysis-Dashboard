@@ -56,7 +56,8 @@ The dashboard provides a single-page view of key transaction and user metrics.
 ![PhonePe Dashboard](![Uploading image.png…]()
 )
 
-> Replace `screenshot.png` with the actual screenshot file uploaded to this repository.
+> Replace `![Uploading image.png…]()
+` with the actual screenshot file uploaded to this repository.
 
 ---
 
