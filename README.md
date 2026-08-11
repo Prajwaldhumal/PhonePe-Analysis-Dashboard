@@ -53,7 +53,8 @@ The dashboard provides a single-page view of key transaction and user metrics.
 
 ## 🖼️ Dashboard Preview
 
-![PhonePe Dashboard](screenshot.png)
+![PhonePe Dashboard](![Uploading image.png…]()
+)
 
 > Replace `screenshot.png` with the actual screenshot file uploaded to this repository.
 
@@ -68,7 +69,6 @@ The dashboard was built using an Excel workbook containing two primary tables.
 | `All_Transactions` | Transaction_ID, Amount, User_ID, Service, Service Type, Payment_Status, Reason, Date |
 | `All_Users` | User_ID, Name, Age, Join_Date |
 
-The dataset is **not included in this repository**.
 
 To use the Power BI template with another dataset, maintain the same table and column structure or modify the Power Query source accordingly.
 
